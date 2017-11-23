@@ -15,5 +15,8 @@ Other notable contributors:
 
 Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
 
+### Screenshot
+file:///C:/Users/Stefan/Desktop/image.PNG
+
 ### Mod by eners49
 This site is not the real 2048, by the way. This is just a mod. You can play the original at http://gabrielecirulli.github.io/2048/
